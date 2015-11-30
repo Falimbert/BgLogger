@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise_array">
+        <item>Aerobics general</item>
+		<item>Aerobics high impact</item>
+		<item>Aerobics low impact</item>
+		<item>Aerobics step aerobics</item>
+		<item>Archery</item>
+		<item>Backpacking Hiking with pack</item>
+		<item>Badminton</item>
+		<item>Bagging grass leaves</item>
+		<item>Bakery light effort</item>
+		<item>Ballet twist jazz tap</item>
+		<item>Ballroom dancing fast</item>
+		<item>Ballroom dancing slow</item>
+		<item>Basketball game competitive</item>
+		<item>Basketball playing non game</item>
+		<item>Basketball shooting baskets</item>
+		<item>Basketball wheelchair</item>
+		<item>Bathing dog</item>
+		<item>Bird watching</item>
+		<item>Boating power speed boat</item>
+		<item>Bowling</item>
+		<item>Boxing in ring</item>
+		<item>Boxing punching bag</item>
+		<item>Boxing sparring</item>
+		<item>Calisthenics light pushups situps…</item>
+		<item>Calisthenics fast pushups situps…</item>
+		<item>Canoeing camping trip</item>
+		<item>Canoeing rowing light</item>
+		<item>Canoeing rowing moderate</item>
+		<item>Canoeing rowing vigorous</item>
+		<item>Carpentry general</item>
+		<item>Carrying 16 to 24 lbs upstairs</item>
+		<item>Carrying 25 to 49 lbs upstairs</item>
+		<item>Carrying heavy loads</item>
+		<item>Carrying infant level ground</item>
+		<item>Carrying infant upstairs</item>
+		<item>Carrying moderate loads upstairs</item>
+		<item>Carrying small children</item>
+		<item>Childrens games hopscotch</item>
+		<item>Circuit training minimal rest</item>
+		<item>Cleaning gutters</item>
+		<item>Cleaning dusting</item>
+		<item>Climbing hills carrying up to 9 lbs</item>
+		<item>Climbing hills carrying 10 to 20 lb</item>
+		<item>Climbing hills carrying 21 to 42 lb</item>
+		<item>Climbing hills carrying over 42 lb</item>
+		<item>Coaching: footballbasketballsoccer</item>
+		<item>Coal mining general</item>
+		<item>Construction exterior remodeling</item>
+		<item>Crew sculling rowing competition</item>
+		<item>Cricket (batting bowling)</item>
+		<item>Croquet</item>
+		<item>Cross country snow skiing slow</item>
+		<item>Cross country skiing moderate</item>
+		<item>Cross country skiing racing</item>
+		<item>Cross country skiing uphill</item>
+		<item>Cross country skiing vigorous</item>
+		<item>Curling</item>
+		<item>Cycling 10mph leisure bicycling</item>
+		<item>Cycling >20mph racing</item>
+		<item>Cycling 10 to 11.9mph light</item>
+		<item>Cycling 12 to 13.9mph moderate</item>
+		<item>Cycling 14 to 15.9mph vigorous</item>
+		<item>Cycling 16 to 19mph very fast racing</item>
+		<item>Cycling mountain bike bmx</item>
+		<item>Darts (wall or lawn)</item>
+		<item>Diving springboard or platform</item>
+		<item>Downhill snow skiing moderate</item>
+		<item>Downhill snow skiing racing</item>
+		<item>Electrical work plumbing</item>
+		<item>Farming baling hay cleaning barn</item>
+		<item>Farming chasing cattle on horseback</item>
+		<item>Farming feeding horses or cattle</item>
+		<item>Farming feeding small animals</item>
+		<item>Farming grooming animals</item>
+		<item>Fencing</item>
+		<item>Fire fighter climbing ladder full gear</item>
+		<item>Fire fighter hauling hoses on ground</item>
+		<item>Fishing from boat sitting</item>
+		<item>Fishing from riverbank standing</item>
+		<item>Fishing from riverbank walking</item>
+		<item>Fishing in stream in waders</item>
+		<item>Fishing general</item>
+		<item>Fishing ice fishing</item>
+		<item>Flying airplane (pilot)</item>
+		<item>Football or baseball playing catch</item>
+		<item>Football competitive</item>
+		<item>Football touch flag general</item>
+		<item>Forestry ax chopping fast</item>
+		<item>Forestry ax chopping slow</item>
+		<item>Forestry carrying logs</item>
+		<item>Forestry sawing by hand</item>
+		<item>Forestry trimming trees</item>
+		<item>Frisbee playing general</item>
+		<item>Frisbee ultimate frisbee</item>
+		<item>Gardening general</item>
+		<item>General cleaning</item>
+		<item>Golf driving range</item>
+		<item>Golf general</item>
+		<item>Golf miniature golf</item>
+		<item>Golf using power cart</item>
+		<item>Golf walking and pulling clubs</item>
+		<item>Golf walking and carrying clubs</item>
+		<item>Gymnastics</item>
+		<item>Hacky sack</item>
+		<item>Handball</item>
+		<item>Handball team</item>
+		<item>Health club exercise</item>
+		<item>Hiking cross country</item>
+		<item>Hockey field hockey</item>
+		<item>Hockey ice hockey</item>
+		<item>Horesback riding saddling horse</item>
+		<item>Horse grooming</item>
+		<item>Horse racing galloping</item>
+		<item>Horse racing trotting</item>
+		<item>Horse racing walking</item>
+		<item>Horseback riding</item>
+		<item>Horseback riding grooming horse</item>
+		<item>Horseback riding trotting</item>
+		<item>Horseback riding walking</item>
+		<item>Horseshoe pitching</item>
+		<item>Housework light</item>
+		<item>Housework moderate</item>
+		<item>Housework vigorous</item>
+		<item>Hunting general</item>
+		<item>Hunting large game</item>
+		<item>Hunting small game</item>
+		<item>Ice skating 9 mph</item>
+		<item>Ice skating average speed</item>
+		<item>Ice skating rapidly</item>
+		<item>Instructing aerobic class</item>
+		<item>Jai alai</item>
+		<item>Jazzercise</item>
+		<item>Judo karate jujitsu martial arts</item>
+		<item>Juggling</item>
+		<item>Jumping rope fast</item>
+		<item>Jumping rope moderate</item>
+		<item>Jumping rope slow</item>
+		<item>Kayaking</item>
+		<item>Kick boxing</item>
+		<item>Kickball</item>
+		<item>Krav maga class</item>
+		<item>Lacrosse</item>
+		<item>Loading unloading car</item>
+		<item>Machine tooling sheet metal</item>
+		<item>Machine tooling tapping drilling</item>
+		<item>Marching band playing instrument</item>
+		<item>Marching rapidly military</item>
+		<item>Masonry concrete</item>
+		<item>Masseur masseuse standing</item>
+		<item>Mild stretching</item>
+		<item>Moving heavy objects moving van</item>
+		<item>Mowing lawn riding mower</item>
+		<item>Mowing lawn walk power mower</item>
+		<item>Music playing a cello</item>
+		<item>Music playing drums</item>
+		<item>Music playing guitar</item>
+		<item>Music playing piano</item>
+		<item>Music playing trombone</item>
+		<item>Music playing trumpet</item>
+		<item>Music playing violin</item>
+		<item>Nursing patient care</item>
+		<item>Orienteering</item>
+		<item>Other</item>
+		<item>Paddle boat</item>
+		<item>Paddleball competitive</item>
+		<item>Paddleball playing</item>
+		<item>Painting</item>
+		<item>Pistol shooting trap shooting range</item>
+		<item>Playing pool billiards</item>
+		<item>Police directing traffic standing</item>
+		<item>Police making an arrest</item>
+		<item>Polo</item>
+		<item>Pushing a wheelchair</item>
+		<item>Pushing plane in and out of hanger</item>
+		<item>Pushing stroller walking with children</item>
+		<item>Race walking</item>
+		<item>Racquetball competitive</item>
+		<item>Racquetball playing</item>
+		<item>Raking lawn</item>
+		<item>Riding motorcyle</item>
+		<item>Riding snow blower</item>
+		<item>Rock climbing ascending rock</item>
+		<item>Rock climbing mountain climbing</item>
+		<item>Rock climbing rappelling</item>
+		<item>Roller blading in-line skating</item>
+		<item>Roller skating</item>
+		<item>Rowing machine light</item>
+		<item>Rowing machine moderate</item>
+		<item>Rowing machine very vigorous</item>
+		<item>Rowing machine vigorous</item>
+		<item>Rugby</item>
+		<item>Running 5 mph (12 minute mile)</item>
+		<item>Running 5.2 mph (11.5 minute mile)</item>
+		<item>Running 6 mph (10 min mile)</item>
+		<item>Running 6.7 mph (9 min mile)</item>
+		<item>Running 7 mph (8.5 min mile)</item>
+		<item>Running 7.5mph (8 min mile)</item>
+		<item>Running 8 mph (7.5 min mile)</item>
+		<item>Running 8.6 mph (7 min mile)</item>
+		<item>Running 9 mph (6.5 min mile)</item>
+		<item>Running 10 mph (6 min mile)</item>
+		<item>Running 10.9 mph (5.5 min mile)</item>
+		<item>Running cross country</item>
+		<item>Running general</item>
+		<item>Running on a track team practice</item>
+		<item>Running stairs up</item>
+		<item>Running training pushing wheelchair</item>
+		<item>Sailing competition</item>
+		<item>Sailing yachting ocean sailing</item>
+		<item>Shoveling snow by hand</item>
+		<item>Shoveling digging ditches</item>
+		<item>Shuffleboard lawn bowling</item>
+		<item>Sit playing with animals light</item>
+		<item>Sitting light office work</item>
+		<item>Skateboarding</item>
+		<item>Ski machine</item>
+		<item>Ski mobiling</item>
+		<item>Skiing water skiing</item>
+		<item>Skin diving fast</item>
+		<item>Skin diving moderate</item>
+		<item>Skin diving scuba diving</item>
+		<item>Skindiving or scuba diving</item>
+		<item>Sky diving</item>
+		<item>Sledding tobagganing luge</item>
+		<item>Snorkeling</item>
+		<item>Snow shoeing</item>
+		<item>Snow skiing downhill skiing light</item>
+		<item>Snowmobiling</item>
+		<item>Soccer competitive</item>
+		<item>Soccer playing</item>
+		<item>Softball or baseball</item>
+		<item>Softball officiating</item>
+		<item>Softball pitching</item>
+		<item>Speed skating ice competitive</item>
+		<item>Squash</item>
+		<item>Stair machine</item>
+		<item>Standing bartending store clerk</item>
+		<item>Standing playing with children light</item>
+		<item>Stationary cycling light</item>
+		<item>Stationary cycling moderate</item>
+		<item>Stationary cycling very light</item>
+		<item>Stationary cycling very vigorous</item>
+		<item>Stationary cycling vigorous</item>
+		<item>Steel mill working in general</item>
+		<item>Stretching hatha yoga</item>
+		<item>Surfing body surfing or board surfing</item>
+		<item>Swimming backstroke</item>
+		<item>Swimming breaststroke</item>
+		<item>Swimming butterfly</item>
+		<item>Swimming laps freestyle fast</item>
+		<item>Swimming laps freestyle slow</item>
+		<item>Swimming leisurely not laps</item>
+		<item>Swimming sidestroke</item>
+		<item>Swimming synchronized</item>
+		<item>Swimming treading water fast</item>
+		<item>Swimming treading water moderate</item>
+		<item>Table tennis ping pong</item>
+		<item>Tae kwan do martial arts</item>
+		<item>Tai chi</item>
+		<item>Tailoring general</item>
+		<item>Taking out trash</item>
+		<item>Teach exercise class and participate</item>
+		<item>Teach physical education class</item>
+		<item>Tennis playing</item>
+		<item>Tennis doubles</item>
+		<item>Tennis singles</item>
+		<item>Track and field (high jump pole vault)</item>
+		<item>Track and field (hurdles)</item>
+		<item>Track and field (shot discus)</item>
+		<item>Trampoline</item>
+		<item>Truck driving loadingunloading truck</item>
+		<item>Typing computer data entry</item>
+		<item>Unicycling</item>
+		<item>Using crutches</item>
+		<item>Volleyball playing</item>
+		<item>Volleyball beach</item>
+		<item>Volleyball competitive</item>
+		<item>Walk / run playing moderate</item>
+		<item>Walk / run playing vigorous</item>
+		<item>Walking 2.0 mph slow</item>
+		<item>Walking 2.5 mph</item>
+		<item>Walking 3.0 mph moderate</item>
+		<item>Walking 3.5 mph brisk pace</item>
+		<item>Walking 3.5 mph uphill</item>
+		<item>Walking 4.0 mph very brisk</item>
+		<item>Walking 4.5 mph</item>
+		<item>Walking 5.0 mph</item>
+		<item>Walking downstairs</item>
+		<item>Walking the dog</item>
+		<item>Walking pushing a wheelchair</item>
+		<item>Walking snow blower</item>
+		<item>Walking under 2.0 mph very slow</item>
+		<item>Wallyball</item>
+		<item>Water aerobics</item>
+		<item>Water aerobics water calisthenics</item>
+		<item>Water jogging</item>
+		<item>Water polo</item>
+		<item>Water volleyball</item>
+		<item>Watering lawn or garden</item>
+		<item>Weeding cultivating garden</item>
+		<item>Weight lifting body building vigorous</item>
+		<item>Weight lifting light workout</item>
+		<item>Whitewater rafting kayakingcanoeing</item>
+		<item>Windsurfing sailing</item>
+		<item>Wrestling</item>
+      </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diabetic_array">
+	<item>Diabetes vaccine</item>
+	<item>Gene therapy</item>
+	<item>Inhaled Insulin</item>
+	<item>Inhaled insulin</item>
+	<item>Insulin Pens</item>
+	<item>Insulin Pumps</item>
+	<item>Insulin Syringes</item>
+	<item>Nanotechnology</item>
+	<item>Oral insulin</item>
+	<item>Other</item>
+	<item>Transdermal insulin</item>
+</string-array>
+</resources>

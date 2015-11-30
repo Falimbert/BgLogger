@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test_units">
+        <item>mg/dl</item>
+        <item>mmol/l</item>
+        <item>%</item>
+    </string-array>
+
+</resources>

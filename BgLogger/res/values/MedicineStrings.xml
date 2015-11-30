@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="medicine_array">
+		<item>Actoplus Met (pioglitazone / metformin)</item>
+		<item>Actoplus Met XR (pioglitazone / metformin extended-release)</item>
+		<item>Actos (pioglitazone)</item>
+		<item>Amaryl (glimepiride)</item>
+		<item>Apidra (insulin glulisine vial)</item>
+		<item>Apidra (insulin glulisin prefilled syringe)</item>
+		<item>Avandamet (rosiglitazone / metformin)</item>
+		<item>Avandaryl (glimepiride / rosiglitazone)</item>
+		<item>Avandia (rosiglitazone)</item>
+		<item>BYDUREON (exenatide extended-release)</item>
+		<item>Byetta (exenatide)</item>
+		<item>chlorpropamide</item>
+		<item>Diabeta (glyburide-Diabeta)</item>
+		<item>Duetact (glimepiride / pioglitazone)</item>
+		<item>Fortamet (metformin extended-release-Fortamet)</item>
+		<item>glucagon</item>
+		<item>Glucophage (metformin)</item>
+		<item>Glucophage XR (metformin extended-release-Glucophage XR)</item>
+		<item>Glucotrol (glipizide)</item>
+		<item>Glucotrol XL (glipizide)</item>
+		<item>Glucovance (glyburide / metformin)</item>
+		<item>Glumetza (metformin extended-release-Glumetza)</item>
+		<item>glyburide</item>
+		<item>Glynase (glyburide,micronized)</item>
+		<item>Glyset (miglitol)</item>
+		<item>Humalog (insulin lispro 50/50 vial)</item>
+		<item>Humalog (insulin lispro 75/25 vial)</item>
+		<item>Humalog (insulin lispro prefilled syringe)</item>
+		<item>Humalog (insulin lispro vial)</item>
+		<item>Humalog 50/50 (insulin lispro 50/50 prefilled syringe)</item>
+		<item>Humalog 75/25 (insulin lispro 75/25  prefilled syringe)</item>
+		<item>Humulin (insulin nph / regular  70/30 insulin vial-humulin)</item>
+		<item>Humulin (insulin nph / regular insulin 70/30 prefilled syringe-humulin)</item>
+		<item>Humulin N (nph insulin prefilled syringe)</item>
+		<item>Humulin N (nph insulin vial)</item>
+		<item>Humulin R (insulin regular-humulin r)</item>
+		<item>Janumet (sitagliptin / metformin)</item>
+		<item>Janumet XR (sitagliptin / metformin extended-release)</item>
+		<item>Januvia (sitagliptin)</item>
+		<item>Jentadueto (linagliptin / metformin)</item>
+		<item>Juvisync (sitagliptin / simvastatin)</item>
+		<item>Kombiglyze XR (saxagliptin / metformin extended-release)</item>
+		<item>Korlym (mifepristone)</item>
+		<item>Lantus (insulin glargine prefilled syringe)</item>
+		<item>Lantus (insulin glargine vial)</item>
+		<item>Levemir (insulin detemir prefilled syringe)</item>
+		<item>Levemir (insulin detemir vial)</item>
+		<item>Metaglip (glipizide / metformin)</item>
+		<item>Novolin (insulin nph / regular 70/30 insulin vial-novolin)</item>
+		<item>Novolin N (NPH insulin vial)</item>
+		<item>Novolin R (insulin regular vial-novolin r)</item>
+		<item>Novolog (insulin aspart 70/30 prefilled syringe)</item>
+		<item>Novolog (insulin aspart 70/30 vial)</item>
+		<item>Novolog (insulin aspart prefilled syringe)</item>
+		<item>Novolog (insulin aspart vial)</item>
+		<item>Onglyza (saxagliptin)</item>
+		<item>Other</item>
+		<item>Prandimet (repaglinide / metformin)</item>
+		<item>Prandin (repaglinide)</item>
+		<item>Precose (acarbose)</item>
+		<item>Proglycem (diazoxide)</item>
+		<item>Riomet (metformin solution)</item>
+		<item>Starlix (nateglinide)</item>
+		<item>Symlin (pramlintide)</item>
+		<item>tolazamide</item>
+		<item>tolbutamide</item>
+		<item>Tradjenta (linagliptin)</item>
+		<item>Victoza (liraglutide)</item>
+</string-array>
+</resources>

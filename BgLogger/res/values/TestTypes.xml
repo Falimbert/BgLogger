@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test_types">
+        <item>Fasting Blood Sugar</item>
+        <item>Random Blood Sugar</item>
+        <item>HBA1C</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="1"
+       
+        android:key="downloadType"
+        android:summary="Select a theme to apply"
+        android:title="Theme" />
+
+    <ListPreference
+        android:defaultValue="1"
+       
+        android:key="downloadType"
+        android:summary="Select the font size"
+        android:title="Font Size" />
+
+</PreferenceScreen>

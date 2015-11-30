@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.BgLogger"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <permission
+        android:name="com.vallabh.googlemapspractice.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="com.vallabh.googlemapspractice.permission.MAPS_RECEIVE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.BgLogger.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.BgLogger.Initial"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.BgLogger.Menu"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.BgLogger.DataEntry"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.BgLogger.FoodlogActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.foodlist" >
+        </activity>
+        <activity android:name="com.BgLogger.mealcalculatorActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.glucose.AddGlucoseLogActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.mealReportActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.bloodReportActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.contactReportActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.SaveContact" >
+        </activity>
+        <activity android:name="com.BgLogger.ViewContacts" >
+        </activity>
+        <activity android:name="com.BgLogger.exerciseReportActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.insulin.AddInsulinLogActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.SaveNote" >
+        </activity>
+        <activity android:name="com.BgLogger.ViewNotes" >
+        </activity>
+        <activity android:name="com.BgLogger.ExerciseActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.MedicineActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.reminders.AlarmCreateDelete" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.graphs.SelectGraph" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.graphs.DrawGraph" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.email.CreateResultPDF" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.email.SendEmail" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.echannel.RenderPage" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.calling.CallMainActivity" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.calling.Stupid" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.calling.Call" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.reminders.AlarmList" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.reminders.AddNewAlarm" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.email.GetEmailAddress" >
+        </activity>
+        <activity android:name="com.BgLogger.MedicineHistory" >
+        </activity>
+        <activity android:name="com.BgLogger.activity.slidingpane.Sliding" >
+        </activity>
+        <activity android:name="com.BgLogger.Help" >
+        </activity>
+
+        <receiver android:name="com.BgLogger.activity.reminders.AlarmManagerBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" >
+                </action>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.BgLogger.activity.reminders.AlarmService" >
+        </service>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBnjSLw5SY_S4sv8telbDKrt4YjiVXWnB4" />
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIxjpRAeDz9kcxD3Zcgx1LQ7erTP0GXtQZAZ3IHQ" />
+    </application>
+
+</manifest>

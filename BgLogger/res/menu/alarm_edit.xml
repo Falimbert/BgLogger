@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/edit"
+        android:enabled="true"
+        android:title="Edit"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/delete"
+        android:enabled="true"
+        android:title="Delete"
+        android:visible="true">
+    </item>
+
+</menu>

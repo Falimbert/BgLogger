@@ -1,0 +1,9 @@
+The project BgLogger contains the following dependencies.
+achartengine-1.1.0.jar
+android-support-v4.jar
+droidText.0.2.jar
+Google Play Services Library
+
+Please make sure to add the above libraries in order to successfully run the application. The aplication was developed using Eclipse IDE. 
+
+The project BgLogger-Test was developed using the Robotium Framework to test the BgLogger application.
